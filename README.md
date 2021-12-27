@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @titouanlamotte
-- 📫 How to reach me >> https://www.titouanlamotte.fr/
+- 📫 How to reach me >> https://titouanlamotte.fr/
 
 <!---
 titouanlamotte/titouanlamotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
