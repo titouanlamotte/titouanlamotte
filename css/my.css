@@ -1,6 +1,10 @@
-
+@font-face {
+        font-family: VCR;
+        src: url(VCR_OSD_MONO_1.001.ttf);
+}
 body {
-    background-color: #111111; font-family: Helvetica Neue, Helvetica;
+    background-color: #111111; 
+    /* font-family: Helvetica Neue, Helvetica; */
 }
 
 #content {
@@ -14,7 +18,7 @@ body {
 }
 
 #menu {
-    font-family:  Helvetica Neue, Helvetica;
+    /* font-family:  Helvetica Neue, Helvetica; */
     padding-top: 2em;
     padding-bottom: 0.1em;
     font-size: 1.2em;
